@@ -1,0 +1,62 @@
+D:\vsproduce\qimo4\qimo4\bin\Debug\qimo4.exe.config
+D:\vsproduce\qimo4\qimo4\bin\Debug\qimo4.exe
+D:\vsproduce\qimo4\qimo4\bin\Debug\qimo4.pdb
+D:\vsproduce\qimo4\qimo4\bin\Debug\qimo4.xml
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form10.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form4.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form5.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form6.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form7.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form8.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form9.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Resources.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.vbproj.GenerateResource.Cache
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.exe
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.xml
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.pdb
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.vbprojResolveAssemblyReference.cache
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form12.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form13.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form14.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form15.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form16.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form1.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form17.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form2.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form3.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form18.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form19.resources
+D:\vsproduce\qimo4\qimo4\obj\Debug\qimo4.Form20.resources
+D:\Vistual Studio2015项目文件夹\qimo4 (5)\qimo4\bin\Debug\qimo4.exe.config
+D:\Vistual Studio2015项目文件夹\qimo4 (5)\qimo4\obj\Debug\qimo4.exe
+D:\Vistual Studio2015项目文件夹\qimo4 (5)\qimo4\obj\Debug\qimo4.xml
+D:\Vistual Studio2015项目文件夹\qimo4 (5)\qimo4\obj\Debug\qimo4.pdb
+D:\vsproduce\qimo4 (5)\qimo4\bin\Debug\qimo4.exe.config
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.exe
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.xml
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.pdb
+D:\vsproduce\qimo4 (5)\qimo4\bin\Debug\qimo4.exe
+D:\vsproduce\qimo4 (5)\qimo4\bin\Debug\qimo4.pdb
+D:\vsproduce\qimo4 (5)\qimo4\bin\Debug\qimo4.xml
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.vbprojResolveAssemblyReference.cache
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form1.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form10.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form12.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form13.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form14.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form15.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form16.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form17.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form18.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form19.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form2.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form20.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form3.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form4.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form5.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form6.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form7.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form8.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Form9.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.Resources.resources
+D:\vsproduce\qimo4 (5)\qimo4\obj\Debug\qimo4.vbproj.GenerateResource.Cache
